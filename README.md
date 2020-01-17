@@ -10,7 +10,3 @@ The game has two options play against a friend or play against the computer.\
 For a better user experience there are two coins one for each player yellow coin and red coin.\
 Each player in his turn can see the possible moves he can make, every possible move that can be made is colored by green in the game board.\
 After the game is over, the game's score is displayed and you can continue to another game or exit.
-
-![Game menu](https://imgur.com/ODVmTu8)
-
-
